@@ -1,7 +1,7 @@
 Design Heroes
 =============
 
-> Static archive for [Design Heroes](http://designheroes.co.uk/)
+> Static archive for [Design Heroes](/)
 
 Design Heroes was a link blog I ran between 2009 and 2012. It is now hosted on GitHub Pages.
 
